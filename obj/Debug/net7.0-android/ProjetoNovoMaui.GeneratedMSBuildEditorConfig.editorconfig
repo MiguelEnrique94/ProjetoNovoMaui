@@ -12,33 +12,75 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = ProjetoNovoMaui
-build_property.ProjectDir = D:\Projetos\ProjetoNovoMaui\
+build_property.ProjectDir = C:\Users\etechas\source\repos\ProjetoNovoMaui\
 
-[D:/Projetos/ProjetoNovoMaui/App.xaml]
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/Projetos/ProjetoNovoMaui/AppShell.xaml]
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/Projetos/ProjetoNovoMaui/MainPage.xaml]
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/Projetos/ProjetoNovoMaui/Resources/Styles/Colors.xaml]
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/NotePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.NotePage.xaml
+build_metadata.AdditionalFiles.TargetPath = NotePage.xaml
+build_metadata.AdditionalFiles.RelativePath = NotePage.xaml
+
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/ProjetoNovoMaui/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.ProjetoNovoMaui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = ProjetoNovoMaui\App.xaml
+build_metadata.AdditionalFiles.RelativePath = ProjetoNovoMaui\App.xaml
+
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/ProjetoNovoMaui/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.ProjetoNovoMaui.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = ProjetoNovoMaui\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = ProjetoNovoMaui\AppShell.xaml
+
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/ProjetoNovoMaui/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.ProjetoNovoMaui.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ProjetoNovoMaui\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ProjetoNovoMaui\MainPage.xaml
+
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/ProjetoNovoMaui/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.ProjetoNovoMaui.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = ProjetoNovoMaui\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = ProjetoNovoMaui\Platforms\Windows\App.xaml
+
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/ProjetoNovoMaui/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.ProjetoNovoMaui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = ProjetoNovoMaui\Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = ProjetoNovoMaui\Resources\Styles\Colors.xaml
+
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/ProjetoNovoMaui/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.ProjetoNovoMaui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = ProjetoNovoMaui\Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = ProjetoNovoMaui\Resources\Styles\Styles.xaml
+
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/Projetos/ProjetoNovoMaui/Resources/Styles/Styles.xaml]
+[C:/Users/etechas/source/repos/ProjetoNovoMaui/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProjetoNovoMaui.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

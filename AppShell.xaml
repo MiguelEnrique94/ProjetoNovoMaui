@@ -6,9 +6,15 @@
     xmlns:local="clr-namespace:ProjetoNovoMaui"
     Shell.FlyoutBehavior="Disabled">
 
+
     <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    
+    <ShellContent
+        Title="NotePage"
+        ContentTemplate="{DataTemplate local:NotePage}"
         Route="MainPage" />
 
 </Shell>

@@ -24015,11 +24015,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\ProjetoNovoMaui\\ProjetoNovoMaui.csproj",
+      "projectUniqueName": "C:\\Users\\etechas\\source\\repos\\ProjetoNovoMaui\\ProjetoNovoMaui.csproj",
       "projectName": "ProjetoNovoMaui",
-      "projectPath": "D:\\Projetos\\ProjetoNovoMaui\\ProjetoNovoMaui.csproj",
+      "projectPath": "C:\\Users\\etechas\\source\\repos\\ProjetoNovoMaui\\ProjetoNovoMaui.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\ProjetoNovoMaui\\obj\\",
+      "outputPath": "C:\\Users\\etechas\\source\\repos\\ProjetoNovoMaui\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

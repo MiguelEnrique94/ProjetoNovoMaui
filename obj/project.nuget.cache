@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rVpjp8VxMWMwAqWpoRBB2d7lIhsL85RP4iMrKBYtkVBnG8zT1omjwxHzphCfEgLvnrYqFhRSdvSeBUpG/jc9NA==",
+  "dgSpecHash": "rULtQ7Ehw+dXC9HWdjAAS1GCLrY1ckFWPsqvtRS09+HeqRmfPudncAlYsifQKepVV8Q5lAp4jENplgGBvPnkyw==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\ProjetoNovoMaui\\ProjetoNovoMaui.csproj",
+  "projectFilePath": "C:\\Users\\etechas\\source\\repos\\ProjetoNovoMaui\\ProjetoNovoMaui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
